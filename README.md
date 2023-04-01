@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyukong&count_bg=%23FFE305&title_bg=%23000000&icon=&icon_color=%23050505&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Résumé](https://img.shields.io/badge/Résumé-018EF5?style=flat&logo=ReadMe&logoColor=white)
-![Notion](https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white)
+[![Résumé](https://img.shields.io/badge/Résumé-018EF5?style=flat&logo=ReadMe&logoColor=white&link=https://kyukong.notion.site/Kim-yubin-67b07b25b2f1412db79b625e81ff6683)](https://kyukong.notion.site/Kim-yubin-67b07b25b2f1412db79b625e81ff6683)
+[![Notion](https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white&link=https://kyukong.notion.site/0ee65a20ef614c81943443d433f9d033)](https://kyukong.notion.site/0ee65a20ef614c81943443d433f9d033)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kyb062666@gmail.com)](mailto:kyb062666@gmail.com)
 
 ### ✨ About Me
