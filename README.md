@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyukong&count_bg=%23FFE305&title_bg=%23000000&icon=&icon_color=%23050505&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Résumé](https://img.shields.io/badge/Résumé-018EF5?style=flat&logo=ReadMe&logoColor=white&link=https://kyukong.notion.site/Kim-yubin-67b07b25b2f1412db79b625e81ff6683?pvs=4)](https://kyukong.notion.site/Kim-yubin-67b07b25b2f1412db79b625e81ff6683?pvs=4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A5F?style=flat&logo=readthedocs&logoColor=white&link=https://kyukong.notion.site/3c17e24149084abb9da1f00cc12e99dc?pvs=4)](https://kyukong.notion.site/3c17e24149084abb9da1f00cc12e99dc?pvs=4)
+[![Résumé](https://img.shields.io/badge/Résumé-018EF5?style=flat&logo=ReadMe&logoColor=white&link=https://kyukong.notion.site/Kim-yubin-d97cdda38669456c8adc41b0bde31c9d?pvs=4)](https://kyukong.notion.site/Kim-yubin-d97cdda38669456c8adc41b0bde31c9d?pvs=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A5F?style=flat&logo=readthedocs&logoColor=white&link=https://kyukong.notion.site/792c3ae74dc54acb9f0a131ddbe4ec60?pvs=4)](https://kyukong.notion.site/792c3ae74dc54acb9f0a131ddbe4ec60?pvs=4)
 [![Notion](https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white&link=https://kyukong.notion.site/0ee65a20ef614c81943443d433f9d033)](https://kyukong.notion.site/0ee65a20ef614c81943443d433f9d033)
 [![Velog](https://img.shields.io/badge/Velog-00B388?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@rudnf003)](https://velog.io/@rudnf003)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kyb062666@gmail.com)](mailto:kyb062666@gmail.com)
