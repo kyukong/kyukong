@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyukong&count_bg=%23FFE305&title_bg=%23000000&icon=&icon_color=%23050505&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Résumé](https://img.shields.io/badge/Résumé-018EF5?style=flat&logo=ReadMe&logoColor=white&link=https://kyukong.notion.site/11cff8ab3ec645abb1cb35de10965b3f)](https://kyukong.notion.site/11cff8ab3ec645abb1cb35de10965b3f)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A5F?style=flat&logo=readthedocs&logoColor=white&link=https://kyukong.notion.site/3b5ae0a22faf4266aa484877c2a6ea53?pvs=4)](https://kyukong.notion.site/3b5ae0a22faf4266aa484877c2a6ea53?pvs=4)
+[![Résumé](https://img.shields.io/badge/Résumé-018EF5?style=flat&logo=ReadMe&logoColor=white&link=[https://www.rallit.com/resumes/92971@kyb062666/%EA%B9%80%EC%9C%A0%EB%B9%88])](https://www.rallit.com/resumes/92971@kyb062666/%EA%B9%80%EC%9C%A0%EB%B9%88)
 [![Notion](https://img.shields.io/badge/Blog-000000?style=flat&logo=Notion&logoColor=white&link=https://kyukong.notion.site/0ee65a20ef614c81943443d433f9d033)](https://kyukong.notion.site/0ee65a20ef614c81943443d433f9d033)
 [![Velog](https://img.shields.io/badge/Velog-00B388?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@rudnf003)](https://velog.io/@rudnf003)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kyb062666@gmail.com)](mailto:kyb062666@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5A5F?style=flat&logo=readthedocs&logoColor=white&link=https://kyukong.notion.site/3b5ae0a22faf4266aa484877c2a6ea53?pvs=4)](https://kyukong.notion.site/3b5ae0a22faf4266aa484877c2a6ea53?pvs=4) -->
 
 ### ✨ About Me
 - 새로 알게된 지식에 대해 보다 **깊게 이해**하는 것을 좋아합니다.
