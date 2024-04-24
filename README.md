@@ -6,15 +6,18 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kyb062666@gmail.com)](mailto:kyb062666@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5A5F?style=flat&logo=readthedocs&logoColor=white&link=https://kyukong.notion.site/3b5ae0a22faf4266aa484877c2a6ea53?pvs=4)](https://kyukong.notion.site/3b5ae0a22faf4266aa484877c2a6ea53?pvs=4) -->
 
-### ✨ About Me
+## ✨ About Me
 - 새로 알게된 지식에 대해 보다 **깊게 이해**하는 것을 좋아합니다.
 - 객체지향적인 코드 작성에 관심이 많으며 **레거시 코드를 리팩터링** 하는 것을 좋아합니다.
 - **더 개선할 점이 없는지** 끝없이 고민하며 빠르게 반영합니다.
 - 꼼꼼한 서비스를 위해 테스트 작성을 생활화합니다.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=Spring%20Data%20JPA&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+## 🐾 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudnf003)](https://solved.ac/rudnf003/)
